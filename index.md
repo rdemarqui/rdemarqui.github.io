@@ -16,7 +16,13 @@ This is a Kaggle competition that requires participants to improve on the state 
 [Click for more datails]([/sample_page](https://github.com/rdemarqui/sentiment_analysis))
 ### Recommender System
 [Click for more datails]([/sample_page](https://github.com/rdemarqui/perfume_recommender))
+<!--
+### Voice Recognition
+-->
+
 
 ## Computer Vision 
-
+<!--
+detecção de objetos, classificação de imagens e segmentação. reconhecimento facial
+-->
 ---
