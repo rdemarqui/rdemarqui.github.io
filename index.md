@@ -2,7 +2,9 @@
 
 ## Classification 
 ### Financial Distress Prediction
-This is a Kaggle competition that requires participants to improve on the state of the art in credit scoring, by predicting the probability that somebody will experience financial distress in the next two years.
+Banks wield a pivotal role within market economies, wielding the authority to approve or decline financing and sway investment choices. Employed by banks, credit scoring algorithms estimate default likelihood, guiding loan approval. 
+
+In this a Kaggle competition I created a credit scoring model, by predicting the probability that somebody will experience financial distress in the next two years. The objective of this project was to construct a model that empowers borrowers in optimal financial deliberations.
 
 [Click for more datails](https://github.com/rdemarqui/financial_distress_prediction)
 
