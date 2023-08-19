@@ -1,36 +1,22 @@
-## Portfolio
+# Portfolio
+
+## Classification 
+### Financial Distress Prediction
+This is a Kaggle competition that requires participants to improve on the state of the art in credit scoring, by predicting the probability that somebody will experience financial distress in the next two years.
+
+[Click for more datails]([/sample_page](https://github.com/rdemarqui/financial_distress_prediction))
+
+
+## Regression 
+### Traffic and congestion prediction on LTE networks
+[Click for more datails]([/sample_page](https://github.com/rdemarqui/traffic_prediction_and_congestion))
+
+## Natural Language Processing (NLP) 
+### Sentiment Analysis
+[Click for more datails]([/sample_page](https://github.com/rdemarqui/sentiment_analysis))
+### Recommender System
+[Click for more datails]([/sample_page](https://github.com/rdemarqui/perfume_recommender))
+
+## Computer Vision 
 
 ---
-
-### Classification 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### Regression 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Natural Language Processing (NLP) 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Computer Vision 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
