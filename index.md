@@ -15,13 +15,23 @@ To tackle this problem, I implemented several models and compared them to find o
 
 ## Regression 
 ### Traffic and congestion prediction on LTE networks
-[Click for more datails](https://github.com/rdemarqui/traffic_prediction_and_congestion)
+To handle the dramatic increase in data volume and better serve their customers, mobile network operators need to design and manage network architectures according to the required demand. A nationwide cellular mobile network contains tens of thousands of base stations. Estimating the traffic increment and consequent congestion of each of these elements can become an arduous and imprecise task, and can lead to incorrect investment decisions.
+
+In this study I replicated the work done by D. Chmieliauskas and D. Guršnys (2019) with some improvements. First, Facebook Prophet was used to generate the traffic forecast, then a regression between traffic volume and cell resource usage was performed to define the congestion threshold. The purpose of this work was to provide a replicable code for the paperswithcode.com.
+
+[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/traffic_prediction_and_congestion)
+
+<p align="center">
+<img src="images\cell_traffic_grow_congestion_forecasting.png" class="center" width="100%"/>
+</p>
+
 
 ## Natural Language Processing (NLP) 
 ### Sentiment Analysis
-[Click for more datails](https://github.com/rdemarqui/sentiment_analysis)
+[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
+
 ### Recommender System
-[Click for more datails](https://github.com/rdemarqui/perfume_recommender)
+[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/perfume_recommender)
 <!--
 ### Voice Recognition
 -->
