@@ -6,6 +6,10 @@ Banks wield a pivotal role within market economies, wielding the authority to ap
 
 In this a Kaggle competition I created a credit scoring model, by predicting the probability that somebody will experience financial distress in the next two years. The objective of this project was to construct a model that empowers borrowers in optimal financial deliberations.
 
+<p align="center">
+<img src="images\financial_distress_prediction.png" class="center" width="100%"/>
+</p>
+
 [Click for more datails](https://github.com/rdemarqui/financial_distress_prediction)
 
 
