@@ -28,6 +28,8 @@ In this study I replicated the work done by D. Chmieliauskas and D. Guršnys (20
 
 ## Natural Language Processing (NLP) 
 ### Sentiment Analysis
+This is a work in progress. Stay tunned :)
+
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
 
 ### Recommender System
