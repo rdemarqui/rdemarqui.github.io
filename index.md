@@ -17,7 +17,7 @@ To tackle this problem, I implemented several models and compared them to find o
 ### Traffic and congestion prediction on LTE networks
 To handle the dramatic increase in data volume and better serve their customers, mobile network operators need to design and manage network architectures according to the required demand. A nationwide cellular mobile network contains tens of thousands of base stations. Estimating the traffic increment and consequent congestion of each of these elements can become an arduous and imprecise task, and can lead to incorrect investment decisions.
 
-In this study I replicated the work done by D. Chmieliauskas and D. Guršnys (2019) with some improvements. First, Facebook Prophet was used to generate the traffic forecast, then a regression between traffic volume and cell resource usage was performed to define the congestion threshold. The purpose of this work was to provide a replicable code for [paperswithcode.com](https://paperswithcode.com/paper/lte-cell-traffic-grow-and-congestion).
+In this study I replicated the work done by D. Chmieliauskas and D. Guršnys (2019) with some improvements. First, Facebook Prophet was used to generate a time series forecast for the data traffic, then a linear regression between traffic volume and cell resource usage was performed to define the congestion threshold. The purpose of this work was to provide a replicable code for [paperswithcode.com](https://paperswithcode.com/paper/lte-cell-traffic-grow-and-congestion).
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/traffic_prediction_and_congestion)
 
@@ -31,7 +31,16 @@ In this study I replicated the work done by D. Chmieliauskas and D. Guršnys (20
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
 
 ### Recommender System
+A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. It's main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.
+
+In this study I created a perfume recommendation system built based on the scent description using bag of words and cosine similarity. Then a demo app was build an can been seen [here](https://huggingface.co/spaces/rdemarqui/perfume_recommender).
+
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/perfume_recommender)
+
+<p align="center">
+<img src="images\app_gradio.png" class="center" width="100%"/>
+</p>
+
 <!--
 ### Voice Recognition
 -->
