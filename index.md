@@ -31,7 +31,7 @@ In this study I replicated the work done by D. Chmieliauskas and D. Guršnys (20
 This is a work in progress. Stay tunned :)
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
-
+---
 ### Recommender System
 A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. It's main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.
 
@@ -47,9 +47,9 @@ In this study I created a perfume recommendation system built based on the scent
 ### Voice Recognition
 -->
 
-
-## Computer Vision 
 <!--
+## Computer Vision 
+
 detecção de objetos, classificação de imagens e segmentação. reconhecimento facial
 -->
 ---
