@@ -35,7 +35,7 @@ This is a work in progress. Stay tunned :)
 ### Recommender System
 A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. It's main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.
 
-In this study I created a perfume recommendation system built based on the scent description using bag of words and similarity search (cosine). Then a demo app was build an can been seen [here](https://huggingface.co/spaces/rdemarqui/perfume_recommender).
+In this study I created a perfume recommendation system built based on the scent description using bag of words and similarity search (cosine). Then a demo app was build and can been seen on [Perfume Recommender App](https://huggingface.co/spaces/rdemarqui/perfume_recommender).
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/perfume_recommender)
 
