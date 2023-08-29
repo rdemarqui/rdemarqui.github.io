@@ -17,7 +17,7 @@ To tackle this problem, I implemented several models and compared them to find o
 ### Traffic and congestion prediction on LTE networks
 A nationwide cellular mobile network contains tens of thousands of base stations. Estimating the traffic increment and consequent congestion of each of these elements can become an arduous and imprecise task, and can lead to incorrect investment decisions.
 
-In this study I replicated the work done by D. Chmieliauskas and D. Guršnys (2019) with some improvements. First, Facebook Prophet was used to generate a time series forecast for the data traffic, then a linear regression between traffic volume and cell resource usage was performed to define the congestion threshold. The purpose of this work was to provide a replicable code for [paperswithcode.com](https://paperswithcode.com/paper/lte-cell-traffic-grow-and-congestion).
+To address this business problem, I replicated the work done by D. Chmieliauskas and D. Guršnys (2019) with some improvements. First, Facebook Prophet was used to generate a time series forecast for the data traffic, then a linear regression between traffic volume and cell resource usage was performed to define the congestion threshold. The purpose of this work was to provide a replicable code for [paperswithcode.com](https://paperswithcode.com/paper/lte-cell-traffic-grow-and-congestion).
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/traffic_prediction_and_congestion)
 
@@ -37,7 +37,7 @@ In this study, I measured the impact of different text pre-processing methodolog
 ### Recommender System
 A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. It's main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.
 
-In this study I created a perfume recommendation system built based on the scent description using bag of words and similarity search (cosine). Then a demo app was build and can been seen on [Perfume Recommender App](https://huggingface.co/spaces/rdemarqui/perfume_recommender).
+In this work, I created a perfume recommendation system built based on the scent description using bag of words and similarity search (cosine). Then a demo app was build and can been seen on [Perfume Recommender App](https://huggingface.co/spaces/rdemarqui/perfume_recommender).
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/perfume_recommender)
 
