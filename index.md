@@ -33,6 +33,11 @@ Sentiment analysis is a segment of machine learning that deciphers emotions with
 In this study, I measured the impact of different text pre-processing methodologies, such as stop word removal, lemmatization and stemming in different types of word embedding, from the simplest ones like bag of words to LLM like BERT.
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
+
+<p align="center">
+<img src="https://github.com/rdemarqui/sentiment_analysis/blob/main/images/vector_model_boxplot.png" class="center" width="65%"/>
+</p>
+
 ---
 ### Recommender System
 A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. It's main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.
