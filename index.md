@@ -15,7 +15,7 @@ To tackle this problem, I implemented several models and compared them to find o
 
 ## Regression 
 ### Traffic and congestion prediction on LTE networks
-To handle the dramatic increase in data volume and better serve their customers, mobile network operators need to design and manage network architectures according to the required demand. A nationwide cellular mobile network contains tens of thousands of base stations. Estimating the traffic increment and consequent congestion of each of these elements can become an arduous and imprecise task, and can lead to incorrect investment decisions.
+A nationwide cellular mobile network contains tens of thousands of base stations. Estimating the traffic increment and consequent congestion of each of these elements can become an arduous and imprecise task, and can lead to incorrect investment decisions.
 
 In this study I replicated the work done by D. Chmieliauskas and D. Guršnys (2019) with some improvements. First, Facebook Prophet was used to generate a time series forecast for the data traffic, then a linear regression between traffic volume and cell resource usage was performed to define the congestion threshold. The purpose of this work was to provide a replicable code for [paperswithcode.com](https://paperswithcode.com/paper/lte-cell-traffic-grow-and-congestion).
 
