@@ -1,6 +1,7 @@
 # Portfolio
-
+---
 ## Classification 
+---
 ### Financial Distress Prediction
 
 Credit scoring algorithms, which make a guess at the probability of default, are the method banks use to determine whether or not a loan should be granted. In this Kaggle competition, participants was required to improve on the state of the art in credit scoring, by predicting the probability that somebody will experience financial distress in the next two years.
@@ -13,7 +14,8 @@ To tackle this problem, I implemented several models and compared them to find o
 <img src="images\financial_distress_prediction.PNG" class="center" width="100%"/>
 </p>
 
-## Regression 
+## Regression
+---
 ### Traffic and congestion prediction on LTE networks
 A nationwide cellular mobile network contains tens of thousands of base stations. Estimating the traffic increment and consequent congestion of each of these elements can become an arduous and imprecise task, and can lead to incorrect investment decisions.
 
@@ -27,6 +29,7 @@ To address this business problem, I replicated the work done by D. Chmieliauskas
 
 
 ## Natural Language Processing (NLP) 
+---
 ### Sentiment Analysis
 Sentiment analysis is a segment of machine learning that deciphers emotions within textual data. By employing sophisticated algorithms, it classifies text as positive, negative, or neutral, enabling invaluable insights across industries.
 
@@ -38,7 +41,7 @@ In this study, I measured the impact of different text pre-processing methodolog
 <img src="https://github.com/rdemarqui/sentiment_analysis/blob/main/images/vector_model_boxplot.png" class="center" width="65%"/>
 </p>
 
----
+
 ### Recommender System
 A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. It's main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.
 
