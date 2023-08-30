@@ -10,7 +10,7 @@ Credit scoring algorithms, which make a guess at the probability of default, are
 
 To tackle this problem, I implemented several models and compared them to find out which one got the best score (AUC). After fine tune the winner, I used SHAP to explain which features were most important to the model.
 
-`pandas` `numpy` `matplotlib` `sklearn` `skopt` `imblearn` `shap` `xgboost` `lightgbm`
+<code>pandas</code> <code>numpy</code> <code>matplotlib</code> <code>sklearn</code> <code>skopt</code> <code>imblearn</code> <code>shap</code> <code>xgboost</code> <code>lightgbm</code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/financial_distress_prediction)
 
