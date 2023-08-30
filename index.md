@@ -10,7 +10,7 @@ Credit scoring algorithms, which make a guess at the probability of default, are
 
 To tackle this problem, I implemented several models and compared them to find out which one got the best score (AUC). After fine tune the winner, I used SHAP to explain which features were most important to the model.
 
-<code><span style="font-family: 'Hubot Sans', monospace;">pandas | numpy | matplotlib | sklearn | skopt | imblearn | shap | xgboost | lightgbm</span></code>
+<code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | matplotlib | sklearn | skopt | imblearn | shap | xgboost | lightgbm |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/financial_distress_prediction)
 
@@ -25,7 +25,7 @@ A nationwide cellular mobile network contains tens of thousands of base stations
 
 To address this business problem, I replicated the work done by D. Chmieliauskas and D. Guršnys (2019) with some improvements. First, Facebook Prophet was used to generate a time series forecast for the data traffic, then a linear regression between traffic volume and cell resource usage was performed to define the congestion threshold. The purpose of this work was to provide a replicable code for [paperswithcode.com](https://paperswithcode.com/paper/lte-cell-traffic-grow-and-congestion).
 
-`fbprophet` `pandas` `sklearn` `scipy` `numpy` `matplotlib` `seaborn`
+<code><span style="font-family: 'Hubot Sans', monospace;">| fbprophet | pandas | sklearn | scipy | numpy | matplotlib | seaborn |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/traffic_prediction_and_congestion)
 
@@ -41,7 +41,7 @@ Sentiment analysis is a segment of machine learning that deciphers emotions with
 
 In this study, I measured the impact of different text pre-processing methodologies, such as stop word removal, lemmatization and stemming in different types of word embedding, from the simplest ones like bag of words to transfomers like BERT.
 
-`nltk` `spacy` `pandas` `numpy` `sklearn` `lightgbm` `matplotlib` `seaborn` `gensim` `torch` `transformers` `sentence_transformers`
+<code><span style="font-family: 'Hubot Sans', monospace;">| nltk | spacy | pandas | numpy | sklearn | lightgbm | matplotlib | seaborn | gensim | torch | transformers | sentence_transformers |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
 
@@ -55,7 +55,7 @@ A recommender system is a class of algorithms and techniques used in information
 
 In this work, I created a perfume recommendation system built based on the scent description using bag of words and similarity search (cosine). Then a demo app was build and can been seen on [Perfume Recommender App](https://huggingface.co/spaces/rdemarqui/perfume_recommender).
 
-`pandas` `numpy` `sklearn` `scipy` `gradio`
+<code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | sklearn | scipy | gradio |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/perfume_recommender)
 
