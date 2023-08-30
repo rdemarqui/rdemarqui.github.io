@@ -38,7 +38,7 @@ In this study, I measured the impact of different text pre-processing methodolog
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
 
 <p align="center">
-<img src="https://github.com/rdemarqui/sentiment_analysis/blob/main/images/vector_model_boxplot.png" class="center" width="65%"/>
+<img src="images\vector_model_boxplot.png" class="center" width="65%"/>
 </p>
 
 
