@@ -15,7 +15,7 @@ To tackle this problem, I implemented several models and compared them to find o
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/financial_distress_prediction)
 
 <p align="center">
-<img src="images\financial_distress_prediction.PNG" class="center" width="100%"/>
+<img src="images\financial_distress_prediction.png" class="center" width="100%"/>
 </p>
 
 ## Regression
