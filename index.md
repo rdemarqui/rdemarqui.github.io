@@ -14,6 +14,7 @@ To tackle this problem, I implemented several models and compared them to find o
 
 <code><span style="font-family: 'Hubot Sans', monospace;">pandas</span></code>
 <code><span style="font-family: 'Hubot Sans', monospace;">numpy</span></code>
+<p>Este é um exemplo de <code><span style="font-family: 'Courier New', monospace;">código inline</span></code> personalizado em HTML.</p>
 
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/financial_distress_prediction)
