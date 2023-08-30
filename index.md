@@ -12,7 +12,8 @@ To tackle this problem, I implemented several models and compared them to find o
 
 <code>pandas</code> <code>numpy</code> <code>matplotlib</code> <code>sklearn</code> <code>skopt</code> <code>imblearn</code> <code>shap</code> <code>xgboost</code> <code>lightgbm</code>
 
-<p>Este é um exemplo de <code style="font-family: 'Courier New', monospace; background-color: #f0f0f0;">código inline personalizado</code> em HTML.</p>
+<code><span style="font-family: 'Hubot Sans', monospace;">pandas</span></code>
+<code><span style="font-family: 'Hubot Sans', monospace;">numpy</span></code>
 
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/financial_distress_prediction)
