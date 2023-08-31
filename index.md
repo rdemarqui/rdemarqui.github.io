@@ -68,13 +68,5 @@
 <code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | sklearn | scipy | gradio |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/perfume_recommender)
-<!--
-### Voice Recognition
--->
 
-<!--
-## Computer Vision 
-
-detecção de objetos, classificação de imagens e segmentação. reconhecimento facial
--->
 ---
