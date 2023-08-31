@@ -2,8 +2,9 @@
   <h1>Portfolio</h1>
 </div>
 
-## Classification 
 ---
+
+## Classification 
 
 ### [Financial Distress Prediction](https://github.com/rdemarqui/financial_distress_prediction)
 
@@ -18,10 +19,10 @@
 <code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | matplotlib | sklearn | skopt | imblearn | shap | xgboost | lightgbm |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/financial_distress_prediction)
-<br>
+
+---
 
 ## Regression
----
 
 ### [Traffic and congestion prediction on LTE networks](https://github.com/rdemarqui/traffic_prediction_and_congestion)
 <p align="justify"> A nationwide cellular mobile network contains tens of thousands of base stations. Estimating the traffic increment and consequent congestion of each of these elements can become an arduous and imprecise task, and can lead to incorrect investment decisions.</p>
@@ -35,10 +36,10 @@
 <code><span style="font-family: 'Hubot Sans', monospace;">| fbprophet | pandas | sklearn | scipy | numpy | matplotlib | seaborn |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/traffic_prediction_and_congestion)
-<br>
+
+---
 
 ## Natural Language Processing (NLP) 
----
 
 ### [Sentiment Analysis](https://github.com/rdemarqui/sentiment_analysis)
 <p align="justify"> Sentiment analysis is a segment of machine learning that deciphers emotions within textual data. By employing sophisticated algorithms, it classifies text as positive, negative, or neutral, enabling invaluable insights across industries.</p>
@@ -52,7 +53,8 @@
 <code><span style="font-family: 'Hubot Sans', monospace;">| nltk | spacy | pandas | numpy | sklearn | lightgbm | matplotlib | seaborn | gensim | torch | transformers | sentence_transformers |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
-<br>
+
+---
 
 ### [Recommender System](https://github.com/rdemarqui/perfume_recommender)
 <p align="justify"> A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. It's main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.</p>
@@ -66,8 +68,6 @@
 <code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | sklearn | scipy | gradio |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/perfume_recommender)
-<br>
-
 <!--
 ### Voice Recognition
 -->
