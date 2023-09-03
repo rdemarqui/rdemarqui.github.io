@@ -2,6 +2,17 @@
   <h1>Portfolio</h1>
 </div>
 
+<p align="justify"> Below, some selected machine learning projects. These are independent projects, many of which reflect what I've been learning in my career or topics that I have an interest in. Feel free to explore them, or if you prefer, visit my <a href="https://github.com/rdemarqui">GitHub</a> page.
+
+
+
+
+### Topics
+* [Classification](#classification)
+* [Regression](#regression)
+* [Natural Language Processing](#natural-language-processing)
+* Audio (coming soon)
+* Computer Vision (coming soon)
 ---
 
 ## Classification 
@@ -39,7 +50,7 @@
 
 ---
 
-## Natural Language Processing (NLP) 
+## Natural Language Processing
 
 ### [Sentiment Analysis](https://github.com/rdemarqui/sentiment_analysis)
 <p align="justify"> Sentiment analysis is a segment of machine learning that deciphers emotions within textual data. By employing sophisticated algorithms, it classifies text as positive, negative, or neutral, enabling invaluable insights across industries.</p>
