@@ -2,7 +2,7 @@
   <h1>Portfolio</h1>
 </div>
 
-<p align="justify"> Below, some selected machine learning projects. These are independent projects, many of which reflect what I've been learning in my career or topics that I have an interest in. Feel free to explore them, or if you prefer, visit my <a href="https://github.com/rdemarqui">GitHub</a> page.
+<p align="justify"> Below, some selected machine learning projects. These are independent projects, many of which reflect what I've been learning in my career or topics that I have an interest in. Feel free to explore them, or if you prefer, visit my <a href="https://github.com/rdemarqui">GitHub</a> page. </p>
 
 ### Topics
 
