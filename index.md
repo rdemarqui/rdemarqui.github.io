@@ -2,7 +2,7 @@
   <h1>Portfolio</h1>
 </div>
 
-<p align="justify"> Below, some selected machine learning projects. These are independent projects and will always be a work in progress, but feel free to explore them, or if you prefer, visit my <a href="https://github.com/rdemarqui">GitHub</a> page. </p>
+<p align="justify"> Below, some selected machine learning projects. These are independent projects and this portfolio will always be a work in progress, but feel free to explore it, or if you prefer, visit my <a href="https://github.com/rdemarqui">GitHub</a> page. </p>
 
 ### Topics
 * [Classification](#classification)
