@@ -66,7 +66,7 @@
 ---
 
 ### [Recommender System](https://github.com/rdemarqui/perfume_recommender)
-<p align="justify"> A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. It's main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.</p>
+<p align="justify"> A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. Its main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.</p>
 
 <p align="center">
 <img src="images\app_gradio.png" class="center" width="100%"/>
