@@ -15,7 +15,7 @@
 
 ## Classification 
 
-### [Financial Distress Prediction](https://github.com/rdemarqui/financial_distress_prediction)
+### [Credit Risk](https://github.com/rdemarqui/financial_distress_prediction)
 
 <p align="justify"> Credit scoring algorithms, which make a guess at the probability of default, are the method banks use to determine whether or not a loan should be granted. In this Kaggle competition, participants was required to predict the probability that somebody will experience financial distress in the next two years.</p>
 
