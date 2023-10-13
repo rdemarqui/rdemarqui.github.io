@@ -72,7 +72,7 @@
 <img src="images\app_gradio.png" class="center" width="100%"/>
 </p>
 
-<p align="justify"> In this work, I created a perfume recommendation system built based on the scent description using bag-of-words and similarity search (cosine). Then a demo app was built and can be seen on <a href="https://huggingface.co/spaces/rdemarqui/perfume_recommender">Perfume Recommender App </a>.</p>
+<p align="justify"> In this work, I created a perfume recommendation system built based on the scent description using bag-of-words and similarity search (cosine). Then a demo app was built and can be seen on <a href="https://huggingface.co/spaces/rdemarqui/perfume_recommender">Perfume Recommender App</a>.</p>
 
 <code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | sklearn | scipy | gradio |</span></code>
 
