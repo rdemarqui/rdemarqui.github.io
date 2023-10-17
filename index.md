@@ -72,7 +72,7 @@
 <img src="images\pyLDAvis.png" class="center" width="100%"/>
 </p>
 
-<p align="justify"> In this context, this work explores how topic modeling can be an effective solution for analyzing large customer complaint datasets, highlighting its applications and benefits. I extractd and analysed customer complaint data from a telecommunications provider by scraping data from the website <a href="https://www.reclameaqui.com.br/">reclameaqui.com.br</a>.</p>
+<p align="justify"> In this context, this work explores how topic modeling can be an effective solution for analyzing large customer complaint datasets, highlighting its applications and benefits.</p>
 
 <code><span style="font-family: 'Hubot Sans', monospace;">| selenium | beautifulsoup | pandas | nltk | spacy | pyLDAvis | bertopic |</span></code>
 
