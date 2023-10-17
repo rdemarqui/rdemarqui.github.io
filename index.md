@@ -64,6 +64,21 @@
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
 
 ---
+### [Customer Complaint Analysis with Topic Modeling](https://github.com/rdemarqui/topic_modeling)
+
+<p align="justify"> Analyzing large datasets of customer complaint texts is a challenging and essential task for companies looking to improve the quality of their products and services. The diversity of words, topics, and sentiments expressed in such texts can overwhelm analysts. This is where topic modeling emerges as a valuable tool.</p>
+
+<p align="center">
+<img src="images\pyLDAvis.png" class="center" width="100%"/>
+</p>
+
+<p align="justify"> In this context, this work explores how topic modeling can be an effective solution for analyzing large customer complaint datasets, highlighting its applications and benefits. I extractd and analysed customer complaint data from a telecommunications provider by scraping data from the website <a href="https://www.reclameaqui.com.br/">reclameaqui.com.br</a>.</p>
+
+<code><span style="font-family: 'Hubot Sans', monospace;">| selenium | beautifulsoup | pandas | nltk | spacy | pyLDAvis | bertopic |</span></code>
+
+[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/topic_modeling)
+
+---
 
 ### [Recommender System](https://github.com/rdemarqui/perfume_recommender)
 <p align="justify"> A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. Its main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.</p>
