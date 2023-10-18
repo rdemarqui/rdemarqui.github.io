@@ -7,7 +7,7 @@
 ### Topics
 * [Classification](#classification)
 * [Regression](#regression)
-* [Natural Language Processing](#natural-language-processing)
+* [NLP - Natural Language Processing](#natural-language-processing)
 * Audio (coming soon)
 * Computer Vision (coming soon)
 
