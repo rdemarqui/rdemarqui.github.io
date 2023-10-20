@@ -33,7 +33,7 @@
 
 ## Regression
 
-### [Traffic and congestion prediction on LTE networks](https://github.com/rdemarqui/traffic_prediction_and_congestion)
+### [Traffic and Congestion Prediction on LTE Networks](https://github.com/rdemarqui/traffic_prediction_and_congestion)
 <p align="justify"> A nationwide cellular mobile network contains tens of thousands of base stations. Estimating the traffic increment and consequent congestion of each of these elements can become an arduous and imprecise task, and can lead to incorrect investment decisions.</p>
 
 <p align="center">
