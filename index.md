@@ -8,6 +8,8 @@
 * [Classification](#classification)
 * [Regression](#regression)
 * [Natural Language Processing (NLP)](#natural-language-processing)
+* Clustering (coming soon)
+* Causal Inference (coming soon)
 * Audio (coming soon)
 * Computer Vision (coming soon)
 
