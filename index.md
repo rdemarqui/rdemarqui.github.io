@@ -22,7 +22,7 @@
 <img src="images\llm_study.png" class="center" width="70%"/>
 </p>
 
-<p align="justify"> In this study, I developed a rapid and automated system for categorizing user complaints into relevant categories. This approach offers valuable insights into customer concerns, thereby enhancing organizational response strategies. </p>
+<p align="justify"> In this study, I developed a rapid and automated system using Mistral 7B LLM for categorizing user complaints into relevant categories. This approach offers valuable insights into customer concerns, thereby enhancing organizational response strategies. </p>
 
 <code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | sklearn | matplotlib | seaborn | selenium | beautifulsoup | transformers |</span></code>
 
