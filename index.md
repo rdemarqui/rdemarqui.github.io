@@ -5,13 +5,74 @@
 <p align="justify"> Below, are some selected machine learning projects. These are independent projects and this portfolio will always be a work in progress, but feel free to explore it, or if you prefer, visit my <a href="https://github.com/rdemarqui">GitHub</a> page. </p>
 
 ### Topics
+* [Natural Language Processing (NLP)](#natural-language-processing)
 * [Classification](#classification)
 * [Regression](#regression)
-* [Natural Language Processing (NLP)](#natural-language-processing)
 * Clustering (coming soon)
 * Causal Inference (coming soon)
-* Audio (coming soon)
-* Computer Vision (coming soon)
+
+---
+
+## Natural Language Processing
+
+### [Decoding User Complaints: An Analysis using Mistral 7B LLM](https://github.com/rdemarqui/llm_complaint_management)
+<p align="justify"> Organizations face the critical task of analyzing diverse, complex user complaints. Accurate interpretation and response are key, with Large Language Models (LLMs) proving essential for efficient, automated complaint management and analysis. </p>
+
+<p align="center">
+<img src="images\llm_study.png" class="center" width="70%"/>
+</p>
+
+<p align="justify"> In this work I created a fast and automated system to categorize user complaints into one or more categories, providing insights into customer concerns and improving organizational response strategies. </p>
+
+<code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | sklearn | matplotlib | seaborn | selenium | beautifulsoup | transformers |</span></code>
+
+[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/llm_complaint_management)
+
+---
+
+### [Sentiment Analysis](https://github.com/rdemarqui/sentiment_analysis)
+<p align="justify"> Sentiment analysis is a segment of machine learning that deciphers emotions within textual data. By employing sophisticated algorithms, it classifies text as positive, negative, or neutral, enabling invaluable insights across industries.</p>
+
+<p align="center">
+<img src="images\vector_model_boxplot.png" class="center" width="65%"/>
+</p>
+
+<p align="justify"> In this study, I measured the impact of different text pre-processing methodologies, such as stop word removal, lemmatization, and stemming in different types of word embedding, from the simplest ones like bag of words to transformers like BERT.</p>
+
+<code><span style="font-family: 'Hubot Sans', monospace;">| nltk | spacy | pandas | numpy | sklearn | lightgbm | matplotlib | seaborn | gensim | torch | transformers | sentence_transformers |</span></code>
+
+[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
+
+---
+
+### [Customer Complaint Analysis with Topic Modeling](https://github.com/rdemarqui/topic_modeling)
+
+<p align="justify"> Analyzing large datasets of customer complaint texts is a challenging and essential task for companies looking to improve the quality of their products and services. The diversity of words, topics, and sentiments expressed in such texts can overwhelm analysts. This is where topic modeling emerges as a valuable tool.</p>
+
+<p align="center">
+<img src="images\pyLDAvis.png" class="center" width="100%"/>
+</p>
+
+<p align="justify"> This work explores how topic modeling can be an effective solution for analyzing large customer complaint datasets, highlighting its applications and benefits.</p>
+
+<code><span style="font-family: 'Hubot Sans', monospace;">| selenium | beautifulsoup | pandas | nltk | spacy | pyLDAvis | bertopic |</span></code>
+
+[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/topic_modeling)
+
+---
+
+### [Recommender System](https://github.com/rdemarqui/perfume_recommender)
+<p align="justify"> A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. Its main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.</p>
+
+<p align="center">
+<img src="images\app_gradio.png" class="center" width="100%"/>
+</p>
+
+<p align="justify"> In this work, I created a perfume recommendation system built based on the scent description using bag-of-words and similarity search (cosine). Then a demo app was built and can be seen on <a href="https://huggingface.co/spaces/rdemarqui/perfume_recommender">Perfume Recommender App</a>.</p>
+
+<code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | sklearn | scipy | gradio |</span></code>
+
+[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/perfume_recommender)
 
 ---
 
@@ -47,52 +108,5 @@
 <code><span style="font-family: 'Hubot Sans', monospace;">| fbprophet | pandas | sklearn | scipy | numpy | matplotlib | seaborn |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/traffic_prediction_and_congestion)
-
----
-
-## Natural Language Processing
-
-### [Sentiment Analysis](https://github.com/rdemarqui/sentiment_analysis)
-<p align="justify"> Sentiment analysis is a segment of machine learning that deciphers emotions within textual data. By employing sophisticated algorithms, it classifies text as positive, negative, or neutral, enabling invaluable insights across industries.</p>
-
-<p align="center">
-<img src="images\vector_model_boxplot.png" class="center" width="65%"/>
-</p>
-
-<p align="justify"> In this study, I measured the impact of different text pre-processing methodologies, such as stop word removal, lemmatization, and stemming in different types of word embedding, from the simplest ones like bag of words to transformers like BERT.</p>
-
-<code><span style="font-family: 'Hubot Sans', monospace;">| nltk | spacy | pandas | numpy | sklearn | lightgbm | matplotlib | seaborn | gensim | torch | transformers | sentence_transformers |</span></code>
-
-[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/sentiment_analysis)
-
----
-### [Customer Complaint Analysis with Topic Modeling](https://github.com/rdemarqui/topic_modeling)
-
-<p align="justify"> Analyzing large datasets of customer complaint texts is a challenging and essential task for companies looking to improve the quality of their products and services. The diversity of words, topics, and sentiments expressed in such texts can overwhelm analysts. This is where topic modeling emerges as a valuable tool.</p>
-
-<p align="center">
-<img src="images\pyLDAvis.png" class="center" width="100%"/>
-</p>
-
-<p align="justify"> This work explores how topic modeling can be an effective solution for analyzing large customer complaint datasets, highlighting its applications and benefits.</p>
-
-<code><span style="font-family: 'Hubot Sans', monospace;">| selenium | beautifulsoup | pandas | nltk | spacy | pyLDAvis | bertopic |</span></code>
-
-[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/topic_modeling)
-
----
-
-### [Recommender System](https://github.com/rdemarqui/perfume_recommender)
-<p align="justify"> A recommender system is a class of algorithms and techniques used in information filtering and decision-making processes. Its main purpose is to provide personalized suggestions or recommendations to users for items they might be interested in.</p>
-
-<p align="center">
-<img src="images\app_gradio.png" class="center" width="100%"/>
-</p>
-
-<p align="justify"> In this work, I created a perfume recommendation system built based on the scent description using bag-of-words and similarity search (cosine). Then a demo app was built and can be seen on <a href="https://huggingface.co/spaces/rdemarqui/perfume_recommender">Perfume Recommender App</a>.</p>
-
-<code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | sklearn | scipy | gradio |</span></code>
-
-[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/perfume_recommender)
 
 ---
