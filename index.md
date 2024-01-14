@@ -22,7 +22,7 @@
 <img src="images\llm_study.png" class="center" width="75%"/>
 </p>
 
-<p align="justify"> In this study, I developed a rapid and automated system using Mistral 7B LLM for categorizing user complaints into relevant categories. This approach offers valuable insights into customer concerns, thereby enhancing organizational response strategies. Read full article in <a href="https://medium.com/@rdemarqui/decoding-user-complaints-a-case-study-with-mistral-7b-llm-10f1021380b5">English</a> and <a href="https://github.com/rdemarqui/llm_complaint_management">Portuguese</a>. </p>
+<p align="justify"> In this study, I developed a rapid and automated system using Mistral 7B LLM for categorizing user complaints into relevant categories. This approach offers valuable insights into customer concerns, thereby enhancing organizational response strategies. Read full article in <a href="https://medium.com/@rdemarqui/decoding-user-complaints-a-case-study-with-mistral-7b-llm-10f1021380b5">English</a> and <a href="https://www.linkedin.com/pulse/decodificando-reclama%25C3%25A7%25C3%25B5es-de-usu%25C3%25A1rios-um-estudo-caso-rildo-c5epf">Portuguese</a>. </p>
 
 <code><span style="font-family: 'Hubot Sans', monospace;">| pandas | numpy | sklearn | matplotlib | seaborn | selenium | beautifulsoup | transformers |</span></code>
 
