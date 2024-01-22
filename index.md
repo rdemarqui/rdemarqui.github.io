@@ -2,7 +2,7 @@
   <h1>Portfolio</h1>
 </div>
 
-<p align="justify"> Below, are some selected machine learning projects. These are independent projects and this portfolio will always be a work in progress, but feel free to explore it, or if you prefer, visit my <a href="https://github.com/rdemarqui">GitHub</a> page. </p>
+<p align="justify"> Below, are some selected machine learning projects. These are independent projects and this portfolio will always be a work in progress. Feel free to explore it, or if you prefer, visit my <a href="https://github.com/rdemarqui">GitHub</a> page. </p>
 
 ### Topics
 * [Natural Language Processing (NLP)](#natural-language-processing)
