@@ -9,7 +9,7 @@
 * [Classification](#classification)
 * [Regression](#regression)
 * Clustering (coming soon)
-* Causal Inference (coming soon)
+* [Causal Inference](#causal-inference)
 
 ---
 
@@ -108,5 +108,16 @@
 <code><span style="font-family: 'Hubot Sans', monospace;">| fbprophet | pandas | sklearn | scipy | numpy | matplotlib | seaborn |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/traffic_prediction_and_congestion)
+
+---
+
+## Causal Inference
+
+### Translation of the book "Causal Inference for The Brave and True"
+<p align="justify">This work is an authorized translation of the open-source book titled <a href="https://matheusfacure.github.io/python-causality-handbook/landing-page.html">Causal Inference for The Brave and True</a> originally authored in English by <a href="https://github.com/matheusfacure">Matheus Facure</a>. This translation aims to contribute to the Portuguese-speaking community that may not be very familiar with English, providing accessible material for those interested in the subject.</p>
+
+<p align="justify">You can check the <a href="https://github.com/rdemarqui/python-causality-handbook-ptbr/blob/master/causal-inference-for-the-brave-and-true/00-Summary.ipynb">Brazilian Portuguese version here</a>. I had a lot of fun and learned a great deal while translating this book. I hope you enjoy and learn as well! Best wishes and happy studying!</p>
+
+[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/python-causality-handbook-ptbr)
 
 ---
