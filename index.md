@@ -105,7 +105,7 @@
 
 <p align="justify"> To address this business problem, I replicated the work done by D. Chmieliauskas and D. Guršnys (2019) with some improvements. First, Facebook Prophet was used to generate a time series forecast for the data traffic, and then a linear regression between traffic volume and cell resource usage was performed to define the congestion threshold. The purpose of this work was to provide a replicable code for <a href="https://paperswithcode.com/paper/lte-cell-traffic-grow-and-congestion">paperswithcode.com</a></p>
 
-<code><span style="font-family: 'Hubot Sans', monospace;">| fbprophet | pandas | sklearn | scipy | numpy | matplotlib | seaborn |</span></code>
+<code><span style="font-family: 'Hubot Sans', monospace;">| prophet | pandas | sklearn | scipy | numpy | matplotlib | seaborn |</span></code>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/traffic_prediction_and_congestion)
 
