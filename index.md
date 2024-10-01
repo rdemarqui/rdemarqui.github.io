@@ -8,7 +8,6 @@
 * [Natural Language Processing (NLP)](#natural-language-processing)
 * [Classification](#classification)
 * [Time Series Forecasting](#time-series-forecasting)
-* Clustering (coming soon)
 * [Causal Inference](#causal-inference)
 
 ---
