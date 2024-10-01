@@ -7,7 +7,7 @@
 ### Topics
 * [Natural Language Processing (NLP)](#natural-language-processing)
 * [Classification](#classification)
-* [Regression](#regression)
+* [Time Series Forecasting](#time-series-forecasting)
 * Clustering (coming soon)
 * [Causal Inference](#causal-inference)
 
@@ -94,7 +94,7 @@
 
 ---
 
-## Regression
+## Time Series Forecasting
 
 ### [Traffic and Congestion Prediction on LTE Networks](https://github.com/rdemarqui/traffic_prediction_and_congestion)
 <p align="justify"> A nationwide cellular mobile network contains tens of thousands of base stations. Estimating the traffic increment and consequent congestion of each of these elements can become an arduous and imprecise task, and can lead to incorrect investment decisions.</p>
