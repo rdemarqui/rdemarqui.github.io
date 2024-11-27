@@ -9,18 +9,17 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
 
   <p align="center">
-    <b>Connect with me:</b><br>
     <a href="https://www.linkedin.com/in/rildo-demarqui/" target="_blank">
-      <img src="images/linkedin.png" class="center" width="15%" />
+      <img src="images/linkedin.png" class="center" width="13%" />
     </a>
-    <a href="https://github.com/rdemarqui" target="_blank">
-      <img src="images/github.png" class="center" width="15%" />
+    <a href="https://github.com/rdemarqui" target="_blank style="margin-left: 10px;">
+      <img src="images/github.png" class="center" width="13%" />
     </a>
-    <a href="https://medium.com/@rdemarqui" target="_blank">
-      <img src="images/medium.png" class="center" width="15%" />
+    <a href="https://medium.com/@rdemarqui" target="_blank style="margin-left: 10px;">
+      <img src="images/medium.png" class="center" width="13%" />
     </a>
-    <a href="https://twitter.com/rildodemarqui" target="_blank">
-      <img src="images/twitter.png" class="center" width="15%" />
+    <a href="https://twitter.com/rildodemarqui" target="_blank style="margin-left: 10px;">
+      <img src="images/twitter.png" class="center" width="13%" />
     </a>
   </p>
   
