@@ -6,10 +6,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Graduated in electrical engineering, MBA, and specialization in artificial intelligence.
   <br>
   Curriculum vitae: <a href="https://github.com/rdemarqui/rdemarqui.github.io/blob/main/curriculum/Rildo_Demarqui_Profile_En.pdf?raw=true">English</a> | <a href="https://github.com/rdemarqui/rdemarqui.github.io/blob/main/curriculum/Rildo_Demarqui_Profile_Pt.pdf?raw=true">Portuguese</a>
-  <br><br>
+  <br>
 
   <p align="center">
-    Connect with me:<br>
+    <b>Connect with me:</b><br>
     <a href="https://www.linkedin.com/in/rildo-demarqui/" target="_blank">
       <img src="images/linkedin.png" class="center" width="15%" />
     </a>
