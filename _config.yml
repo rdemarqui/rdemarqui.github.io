@@ -10,16 +10,16 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <p align="center">
     <a href="https://www.linkedin.com/in/rildo-demarqui/" target="_blank">
-      <img src="images/linkedin.png" class="center" width="13%" />
+      <img src="images/linkedin.png" class="center" width="10%" />&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://github.com/rdemarqui" target="_blank style="margin-left: 25px;">
-      <img src="images/github.png" class="center" width="13%" />
+    <a href="https://github.com/rdemarqui" target="_blank">
+      <img src="images/github.png" class="center" width="10%" />&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://medium.com/@rdemarqui" target="_blank style="margin-left: 25px;">
-      <img src="images/medium.png" class="center" width="13%" />
+    <a href="https://medium.com/@rdemarqui" target="_blank">
+      <img src="images/medium.png" class="center" width="10%" />&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://twitter.com/rildodemarqui" target="_blank style="margin-left: 25px;">
-      <img src="images/twitter.png" class="center" width="13%" />
+    <a href="https://twitter.com/rildodemarqui" target="_blank">
+      <img src="images/twitter.png" class="center" width="10%" />&nbsp;&nbsp;&nbsp;
     </a>
   </p>
   
