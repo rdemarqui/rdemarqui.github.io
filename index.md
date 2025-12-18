@@ -129,6 +129,7 @@
 <img src="images\placebo_test.png" class="center" width="100%"/>
 </p>
 
-Setting political passions aside, this article seeks, using causal inference tools, to identify whether a given fluctuation in the Brazilian stock market was intrinsic or merely another routine movement of the global market.
+<p align="justify"> Setting political passions aside, this article seeks, using causal inference tools, to identify whether a given fluctuation in the Brazilian stock market was intrinsic or merely another routine movement of the global market.</p>
 
+[![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/causal_impact_on_ewz)
 ---
