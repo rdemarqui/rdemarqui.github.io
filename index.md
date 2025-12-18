@@ -120,3 +120,15 @@
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/python-causality-handbook-ptbr)
 
 ---
+
+
+### [Local versus Global Shocks in the Brazilian Stock Market: Evidence from Synthetic Control](https://github.com/rdemarqui/causal_impact_on_ewz)
+<p align="justify"> Those who follow financial news are accustomed to reading analysts’ opinions explaining the daily rises and falls of stock markets. In Brazil, market movements associated with political events often generate heated debates on the internet.</p>
+
+<p align="center">
+<img src="images\placebo_test.png" class="center" width="100%"/>
+</p>
+
+Setting political passions aside, this article seeks, using causal inference tools, to identify whether a given fluctuation in the Brazilian stock market was intrinsic or merely another routine movement of the global market.
+
+---
