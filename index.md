@@ -123,13 +123,13 @@
 
 
 ### [Local versus Global Shocks in the Brazilian Stock Market: Evidence from Synthetic Control](https://github.com/rdemarqui/causal_impact_on_ewz)
-<p align="justify"> Those who follow financial news are accustomed to reading analysts’ opinions explaining the daily rises and falls of stock markets. In Brazil, market movements associated with political events often generate heated debates on the internet.</p>
+<p align="justify"> In many real-world contexts, such as public policies, economic events, regional marketing campaigns, or institutional shocks, randomization is not feasible. In such cases, synthetic control enables the construction of a counterfactual based on a weighted combination of comparable units, allowing for the estimation of the causal effect of unique or infrequent interventions.</p>
 
 <p align="center">
 <img src="images\placebo_test.png" class="center" width="100%"/>
 </p>
 
-<p align="justify"> Setting political passions aside, this article seeks, using causal inference tools, to identify whether a given fluctuation in the Brazilian stock market was intrinsic or merely another routine movement of the global market. Read the full article in English <a href="https://medium.com/@rdemarqui/local-versus-global-shocks-in-the-brazilian-stock-market-evidence-from-synthetic-control-dc7acd5ed38a">here</a> and in Portuguese <a href="https://medium.com/@rdemarqui/choques-locais-versus-globais-no-mercado-de-a%C3%A7%C3%B5es-brasileiro-evid%C3%AAncia-via-controle-sint%C3%A9tico-e72363d41116">here</a>.</p>
+<p align="justify"> This article seeks, using causal inference tools, to identify whether a given fluctuation in the Brazilian stock market was intrinsic or merely another routine movement of the global market. Read the full article in English <a href="https://medium.com/@rdemarqui/local-versus-global-shocks-in-the-brazilian-stock-market-evidence-from-synthetic-control-dc7acd5ed38a">here</a> and in Portuguese <a href="https://medium.com/@rdemarqui/choques-locais-versus-globais-no-mercado-de-a%C3%A7%C3%B5es-brasileiro-evid%C3%AAncia-via-controle-sint%C3%A9tico-e72363d41116">here</a>.</p>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/causal_impact_on_ewz)
 
