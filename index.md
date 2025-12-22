@@ -123,7 +123,7 @@
 
 
 ### [Local versus Global Shocks in the Brazilian Stock Market: Evidence from Synthetic Control](https://github.com/rdemarqui/causal_impact_on_ewz)
-<p align="justify"> In many real-world contexts, such as public policies, economic events, regional marketing campaigns, or institutional shocks, randomization is not feasible and the counterfactual outcome is unobservable. In such cases, synthetic control may enable the construction of a counterfactual based on a weighted combination of comparable units, allowing for the estimation of the causal effect of unique or infrequent interventions.</p>
+<p align="justify"> In many real-world contexts, such as public policies, economic events, regional marketing campaigns, or institutional shocks, randomization is not feasible and the counterfactual outcome is unobservable. In such settings, the synthetic control method provides a data-driven approach to approximate the counterfactual by constructing a weighted combination of comparable units, enabling the estimation of the causal effect of unique or infrequent interventions.</p>
 
 <p align="center">
 <img src="images\placebo_test.png" class="center" width="100%"/>
