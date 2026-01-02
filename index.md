@@ -123,13 +123,13 @@
 
 
 ### [Local versus Global Shocks in the Brazilian Stock Market: Evidence from Synthetic Control](https://github.com/rdemarqui/causal_impact_on_ewz)
-<p align="justify"> In many real-world contexts, such as public policies, economic events, regional marketing campaigns, or institutional shocks, randomization is not feasible and the counterfactual outcome is unobservable. In such settings, the synthetic control method provides a data-driven approach to approximate the counterfactual by constructing a weighted combination of comparable units, enabling the estimation of the causal effect of unique or infrequent interventions.</p>
+<p align="justify"> In many real-world settings—such as public policy interventions, economic shocks, regional marketing campaigns, or institutional events—identifying credible causal effects is challenging due to the absence of a valid counterfactual. In such settings, the synthetic control method can provide a data-driven approach to approximate the counterfactual by constructing a weighted combination of comparable units, enabling the estimation of the causal effect of unique or infrequent interventions.</p>
 
 <p align="center">
 <img src="images\placebo_test.png" class="center" width="100%"/>
 </p>
 
-<p align="justify"> This article seeks, using causal inference tools, to identify whether a given fluctuation in the Brazilian stock market was intrinsic or merely another routine movement of the global market. Read the full article in English <a href="https://medium.com/@rdemarqui/local-versus-global-shocks-in-the-brazilian-stock-market-evidence-from-synthetic-control-dc7acd5ed38a">here</a> and in Portuguese <a href="https://medium.com/@rdemarqui/choques-locais-versus-globais-no-mercado-de-a%C3%A7%C3%B5es-brasileiro-evid%C3%AAncia-via-controle-sint%C3%A9tico-e72363d41116">here</a>.</p>
+<p align="justify"> In this article, I use synthetic control method, to identify whether a given fluctuation in the Brazilian stock market was intrinsic or merely another routine movement of the global market. You can read the full article in English <a href="https://medium.com/@rdemarqui/local-versus-global-shocks-in-the-brazilian-stock-market-evidence-from-synthetic-control-dc7acd5ed38a">here</a> and in Portuguese <a href="https://medium.com/@rdemarqui/choques-locais-versus-globais-no-mercado-de-a%C3%A7%C3%B5es-brasileiro-evid%C3%AAncia-via-controle-sint%C3%A9tico-e72363d41116">here</a>.</p>
 
 [![View more on GitHub](https://img.shields.io/badge/View%20more%20on-GitHub-blue?logo=github)](https://github.com/rdemarqui/causal_impact_on_ewz)
 
